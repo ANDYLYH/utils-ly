@@ -1,0 +1,12 @@
+{
+  "name": "timestamp-util-ly",
+  "version": "1.0.0",
+  "description": "时间转换",
+  "main": "index.js",
+  "private":false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andylyh",
+  "license": "ISC"
+}
