@@ -1,4 +1,4 @@
-let utils = {
+let utils = { 
   timestampToTime(time) {
     if (time) {
       var date = new Date(time);;
